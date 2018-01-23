@@ -1,2 +1,2 @@
 # vigenere_cipher
-Python implementation for Vigenère cipher
+Python implementation of Vigenère cipher
